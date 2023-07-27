@@ -1,3 +1,4 @@
+//Sum of Natural Numbers up to N
 import java.util.Scanner;
 public class E5 {
     public static void main(String[] args) {
