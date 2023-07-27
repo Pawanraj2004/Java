@@ -1,3 +1,4 @@
+//Check if a Number is Prime.
 import java.util.Scanner;
 public class E7 {
     public static void main(String[] args){
