@@ -1,3 +1,4 @@
+//Calculate Simple Interest
 import java.util.*;
 public class E22 {
     public static void main(String[] args) {
