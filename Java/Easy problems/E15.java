@@ -1,3 +1,4 @@
+//Find GCD of two numbers.
 import java.util.*;
 public class E15 {
     public static int gcd(int a,int b){
