@@ -1,0 +1,19 @@
+M1.BigInteger
+M2.Maximum hour glass sum.
+M3.Number of subarrays of having negative sums.
+M4.Find missing number in an array.
+M5.Remove duplicate elements.
+M6.Peak element.
+M7.List implementation insertion and deletion.
+M8.Add two 2x2 Matrix.
+M9.Multiplication of two 2x2 matrix.
+M10.Find common numbers in two 1D arrays.
+M11.Count words in a string.
+M12.Two elements having sum equal to a given target.
+M13.Number of sub arrays having sum equal to a given target.
+M14.All combinations in  an array having sum equal to a target.
+M15.Remove repeating values.
+M16.Find the maximum value of arr[i]+(arr[j]*arr[k]) given i<j<k and arr[i]<arr[j]<arr[k].
+M17.Find the number that appears only once(only one single element) in an odd numbered array.
+M18.Implement map.(user input name and respective number)
+M19.Implementing Arraylist.
