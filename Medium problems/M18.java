@@ -1,4 +1,4 @@
-//Implement map.(user input name and respective number)
+//Implement hashmap.(user input name and respective number)
 import java.util.*;
 public class M18 {
   public static void main(String[] args) {
