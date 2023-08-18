@@ -1,4 +1,4 @@
-//Longest Common substring.
+//Longest Common substring in two strings.
 import java.util.*;
 public class M22 {
     public static String longestCommonSubstring(String str1, String str2) {
