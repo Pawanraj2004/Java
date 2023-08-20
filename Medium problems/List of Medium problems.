@@ -17,3 +17,9 @@ M16.Find the maximum value of arr[i]+(arr[j]*arr[k]) given i<j<k and arr[i]<arr[
 M17.Find the number that appears only once(only one single element) in an odd numbered array.
 M18.Implement map.(user input name and respective number)
 M19.Implementing Arraylist.
+M20.Number of exchanging values operations(a[i]=a[j] or a[j]=a[i]) required to make array equal.
+M21.Valid Parenthesis.(Using stack)
+M22.Longest Common substring.
+M23.Roman to integer.
+M24. Longest common prefix in array of strings.
+M25.
