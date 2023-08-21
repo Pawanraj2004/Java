@@ -21,5 +21,5 @@ M20.Number of exchanging values operations(a[i]=a[j] or a[j]=a[i]) required to m
 M21.Valid Parenthesis.(Using stack)
 M22.Longest Common substring.
 M23.Roman to integer.
-M24. Longest common prefix in array of strings.
-M25.
+M24. Given an array containing all integers from N to M , find the missing numbers between them.
+M25.Given an array nums of n integers, are there elements a, b, c in nums such that a + b + c = 0?
